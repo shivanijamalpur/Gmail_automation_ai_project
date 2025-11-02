@@ -10,7 +10,7 @@
 ## 📄 Files Included
 - `mail_automation_project.py` – Source code of the email automation agent  
 - `AI_Email_Agent_Final_Data_Science_Report.docx` – Detailed data science report  
-- `email_classifier_dataset.csv` – Training dataset (if applicable)  
+- `Email_AI agent architecture document` - architecture document   
 - `demo_video.mp4` – Demonstration of the working project (or Google Drive link)
 
 ## 📧 Gmail API Setup
